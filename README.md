@@ -1,4 +1,4 @@
-# Phidata AI Agents Project
+# AI-Powered-Agentic-Systems-for-Intelligent-Decision-Making
 
 This project demonstrates the power of AI Agents integrated with multiple data sources and AI models, including Groq, Gemini, OpenAI, and more. The agents interact with different tools and APIs to perform various tasks such as web search, financial analysis, PDF-based assistance, and video summarization.
 
